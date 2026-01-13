@@ -1,84 +1,31 @@
-<h1 align="center">Hariom Kumar Bharti</h1>
+<!-- ===================== -->
+<!-- HERO BANNER -->
+<!-- ===================== -->
+
 <p align="center">
-Software Engineering Student @ IIIT-Delhi | C++ • Python | Systems • AI • Cybersecurity
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=180&section=header&text=Hariom%20Kumar%20Bharti&fontSize=36&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00E7FF&size=22&center=true&vCenter=true&width=700&lines=Software+Engineering+Student+@+IIIT-Delhi;C%2B%2B+%7C+Python+%7C+Systems+%7C+AI;Cybersecurity+%7C+Competitive+Programming" />
 </p>
 
 ---
 
-## About
-Second-year Computer Science student focused on building scalable systems, security tooling, and clean software.
-
-Leadership and execution across technical events, outreach programs, and student operations. Strong foundation in core CS, competitive programming, and hands-on system-level development.
-
----
-
-## Core Skills
-**Languages:** C, C++, Python, Java, HTML, CSS, SQL  
-**Tools:** GitHub, MySQL, Figma, VS Code, IntelliJ IDEA, Linux/Unix  
-**CS Fundamentals:** DSA, OS, COA, Discrete Math, OOP  
-**Domains:** Systems Programming, Full-Stack Development, Cybersecurity, AI/ML Foundations  
+## 👤 About Me
+Second-year CSE student focused on **systems engineering, cybersecurity, and scalable software**.  
+Execution-first mindset. No fluff. Only build.
 
 ---
 
-## Experience & Leadership
-**Operations Lead — Esya 2025, IIIT-Delhi**  
-- Led logistics for 40+ events with 2000+ participants.  
-- Managed real-time coordination across teams and venues.  
-- Built execution workflows for large volunteer groups.
-
-**Volunteer Lead — Summer Camp 2025**  
-- Directed 10+ volunteers delivering STEM education to 125+ students.  
-- Conducted hands-on sessions in HTML, CSS, and Python.
-
-**Organizing Team — Induction 2025**  
-- Managed onboarding logistics and student support for 650+ freshers.  
-- Coordinated with faculty and student bodies for smooth execution.
+## 🛠 Tech Stack
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,mysql,linux,git&theme=dark" />
+</p>
 
 ---
 
-## Projects
-**University ERP System — Java, MySQL, Swing**  
-- Built a secure admin platform for 650+ users.  
-- Implemented RBAC and jBCrypt-based credential security.  
-- Automated course allocation across 15+ departments.
-
-**Fleet Highway Simulator — Java, Multithreading**  
-- Designed concurrent vehicle simulation using Runnable and locks.  
-- Eliminated race conditions with ReentrantLock.  
-- Maintained stable GUI refresh under high concurrency.
-
-**LEGEND OS — Unix ELF Loader — C**  
-- Implemented a 32-bit ELF loader using mmap, open, read.  
-- Reduced memory usage by 20% via manual segment mapping.  
-- Executed 10+ custom-compiled binaries successfully.
-
-**RISC-V Hardware Simulator — Python**  
-- Built a cycle-accurate simulator and assembler.  
-- Implemented ALU and control units.  
-- Ran complex assembly programs with zero execution errors.
-
----
-
-## Certifications
-- Deloitte Australia — Cybersecurity Job Simulation  
-- C-DAC — Ethical Hacking and Penetration Testing  
-
----
-
-## Tech Stack
-![C](https://img.shields.io/badge/C-blue)
-![C++](https://img.shields.io/badge/C++-00599C)
-![Python](https://img.shields.io/badge/Python-3776AB)
-![Java](https://img.shields.io/badge/Java-ED8B00)
-![HTML](https://img.shields.io/badge/HTML5-E34F26)
-![CSS](https://img.shields.io/badge/CSS3-1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1)
-![Linux](https://img.shields.io/badge/Linux-FCC624)
-
----
-
-## Focus Areas
+## 🧠 Core Domains
 - Systems Programming  
 - Cybersecurity & Penetration Testing  
 - Competitive Programming  
@@ -86,14 +33,74 @@ Leadership and execution across technical events, outreach programs, and student
 
 ---
 
-## Links
-- Portfolio: https://hariomkbharti.netlify.app  
-- GitHub: https://github.com/L9G9N0  
-- LinkedIn: https://www.linkedin.com/in/hariomkumarbharti  
+## 🚀 Projects
+**LEGEND OS — Unix ELF Loader (C)**  
+Built a 32-bit ELF loader using mmap, open, read. Executed custom binaries with manual memory mapping.
+
+**RISC-V Hardware Simulator (Python)**  
+Cycle-accurate ISA simulator with ALU + Control Unit.
+
+**University ERP System (Java, MySQL)**  
+Secure RBAC system for 650+ users with jBCrypt credential security.
 
 ---
 
-## GitHub Stats
+## 🎓 Leadership
+**Operations Lead — Esya 2025**  
+Handled logistics for 40+ events, 2000+ participants.
+
+**Volunteer Lead — Summer Camp 2025**  
+Directed STEM education for 125+ students.
+
+**Organizing Team — Induction 2025**  
+Managed onboarding for 650+ freshers.
+
+---
+
+## 🌙 Dark Anime Section
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=L9G9N0&show_icons=true&hide_border=true" />
+  <img src="https://i.imgur.com/8Km9tLL.gif" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" />
+</p>
+
+---
+
+## 📊 Stats (Dark Mode)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+</p>
+
+---
+
+## 🧩 Contact
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/hariomkumarbharti">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://hariomkbharti.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel" />
+  </a>
+</p>
+
+---
+
+<!-- ===================== -->
+<!-- FOOTER -->
+<!-- ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=120&section=footer" />
 </p>
