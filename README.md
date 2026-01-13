@@ -56,9 +56,10 @@ I am a **Computer Science Sophomore at IIIT-Delhi** focused on low-level systems
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=L9G9N0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L9G9N0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=L9G9N0&bg_color=0D1117&color=00E7FF&line=00E7FF&point=FFFFFF&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
+
+<br>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=L9G9N0&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117" alt="streak graph" />
