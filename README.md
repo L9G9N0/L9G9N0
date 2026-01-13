@@ -11,7 +11,7 @@
 ### 👨‍💻 About Me
 I am a **Computer Science Sophomore at IIIT-Delhi** focused on low-level systems, security architecture, and scalable software. I don't just write code; I engineer solutions that handle concurrency, memory management, and security protocols.
 
-- 🔭 **Currently studying on:** Indraprastha Institute of Information Technology Delhi
+- 🔭 **Currently studying on:** Indraprastha Institute of Information Technology Delhi.
 - 🎓 **Education:** B.Tech in CSE (CGPA: 7.6).
 - ⚡ **Core Philosophy:** *No fluff. Only build.*
 
