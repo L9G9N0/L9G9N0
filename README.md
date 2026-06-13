@@ -107,7 +107,7 @@ Whether it's building offline biometric daemons in C++ or orchestrating LLMs for
   <a href="mailto:hariom24229@iiitd.ac.in">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://hariomkbharti.netlify.app">
+  <a href="https://hariomkumarbharti.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </div>
