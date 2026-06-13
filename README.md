@@ -9,7 +9,7 @@
 ---
 
 ### 👨‍💻 Executive Summary
-I am a **Computer Science Sophomore at Indraprastha Institute of Information Technology, Delhi (IIIT-D)** with a strong academic standing (GPA: 7.05/10.0). My engineering spectrum spans across low-level systems programming, native macOS development, and agentic AI pipelines. I don't just write code; I architect solutions that demand rigorous memory management, high concurrency, and production-grade scalability. 
+I am a **Computer Science Sophomore at Indraprastha Institute of Information Technology, Delhi (IIIT-D)** with a strong academic standing. My engineering spectrum spans across low-level systems programming, native macOS development, and agentic AI pipelines. I don't just write code; I architect solutions that demand rigorous memory management, high concurrency, and production-grade scalability. 
 
 Whether it's building offline biometric daemons in C++ or orchestrating LLMs for MLOps pipelines, my approach is rooted in first principles and mathematical logic.
 
