@@ -1,102 +1,60 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:202020&height=180&section=header&text=Hariom%20Kumar%20Bharti&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Hariom Header" />
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=ffffff&center=true&vCenter=true&width=600&lines=System+Programming+%7C+Cybersecurity+%7C+AI;CSE+Sophomore+%40+IIIT-Delhi;Building+Safe+%26+Scalable+Systems;Execution-First+Mindset" alt="Typing SVG" />
-  </a>
-</div>
-
----
+<h1 align="center">Hi there, I'm Hariom (L9G9N0) 👋</h1>
 
 ### 👨‍💻 About Me
-I am a **Computer Science Sophomore at IIIT-Delhi** focused on low-level systems, security architecture, and scalable software. I don't just write code; I engineer solutions that handle concurrency, memory management, and security protocols.
 
-- 🔭 **Currently studying on:** Indraprastha Institute of Information Technology Delhi.
-- 🎓 **Education:** B.Tech in CSE.
-- ⚡ **Core Philosophy:** *No fluff. Only build.*
+I am a Computer Science Sophomore at IIIT-Delhi focusing on **low-level systems, security architecture, and end-to-end ML pipelines**. I don't just write code; I engineer scalable solutions—whether that means managing memory segments in C or building predictive models from scratch without high-level libraries. 
 
----
+* 🔭 **Currently Studying:** B.Tech in CSE @ Indraprastha Institute of Information Technology Delhi.
+* ⚡ **Core Philosophy:** No fluff. Only build. Learn from first principles.
+* 🌱 **Currently Exploring:** RAG Systems, Advanced Misinformation Detection, and System-level Optimization.
 
 ### 🛠️ Technical Arsenal
 
-| **Core Languages** | **Systems & Tools** | **Domains** |
-| :--- | :--- | :--- |
-| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) | ![Security](https://img.shields.io/badge/Security-430098?style=for-the-badge&logo=torproject&logoColor=white) ![Systems](https://img.shields.io/badge/Systems-000000?style=for-the-badge&logo=apple&logoColor=white) ![Web](https://img.shields.io/badge/Web-Standard?style=for-the-badge&logo=html5&logoColor=white) |
+* **Core Languages:** C, C++, Java, Python, TypeScript, SQL
+* **Systems & AI:** Unix Internals, Multithreading, Llama-3, Jupyter, End-to-End ML Pipelines
+* **Web & Tools:** React.js, Node.js, Express, Flask, Git, Docker
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Engineering & AI Projects
 
-#### 🐧 **LEGEND_OS: Unix ELF Loader**
-*C | Systems Programming | Linux Internals*
-> A 32-bit ELF binary loader implementing core Unix system calls (`mmap`, `open`, `read`) to execute statically linked binaries.
-- **Impact:** Optimized memory usage by **20%** via manual segment mapping.
-- **Tech:** Handled virtual memory address spacing and custom compiled test cases.
-[View Repository](#)
+#### 📦 [Q-Commerce SLA Predictor](https://github.com/L9G9N0/q-commerce-sla-predictor)
+**Python | ML Pipelines | Llama-3**
+End-to-end ML pipeline engineered for Q-Commerce logistics. 
+* **Impact:** Predicts delivery delays and analyzes pricing impacts dynamically.
+* **Tech:** Automated Root Cause Analysis (RCA) pipeline powered by Llama-3 integration.
 
-#### 📡 **Fleet Highway Simulator**
-*Java | Swing | Multithreading*
-> A concurrent traffic simulation environment managing multiple independent vehicle threads.
-- **Concurrency:** Engineered synchronization via `ReentrantLock` to eliminate race conditions.
-- **Performance:** Maintained **60 FPS** GUI refresh rate using `SwingUtilities.invokeLater`.
-[View Repository](#)
+#### 🧠 [Spam Classifier (Naive Bayes from Scratch)](https://github.com/L9G9N0/Spam-Classifier-Naive-Bayes-Scratch)
+**Jupyter Notebook | Probability & Statistics**
+A probabilistic SMS Spam Classifier built entirely from the ground up without using Scikit-Learn.
+* **Core:** Implemented Naive Bayes theorem and Laplace Smoothing mathematically from first principles to ensure zero black-box logic.
 
-#### 🎓 **University ERP System**
-*Java | MySQL | Swing | jBCrypt*
-> Secure administrative platform with dual-database architecture for **650+ users**.
-- **Security:** Implemented multi-tier **RBAC** and industrial-grade **jBCrypt hashing** for credentials.
-[View Repository](#)
+#### 🐧 [LEGEND_OS: Unix ELF Loader](https://github.com/L9G9N0/LEGEND_OS)
+**C | Systems Programming | Linux Internals**
+A 32-bit ELF binary loader implementing core Unix system calls (`mmap`, `open`, `read`) to execute statically linked binaries.
+* **Impact:** Optimized memory usage by 20% via manual segment mapping and virtual memory address handling.
 
-#### ⚡ **RISC-V Hardware Simulator**
-*Python | Computer Architecture*
-> Cycle-accurate simulator and assembler for RISC-V ISA (32+ instructions).
-- **Core:** Implemented ALU and Control Unit for sub-millisecond latency execution.
-[View Repository](#)
+#### 💻 [MACOS-FACEUNLOCK](https://github.com/L9G9N0/MACOS-FACEUNLOCK)
+**Python | Computer Vision | Automation**
+A custom biometric utility built for the macOS ecosystem to enhance local authentication speed and efficiency. 
+
+#### ⚡ [RISC-V Hardware Simulator](https://github.com/L9G9N0/RISC-V-Hardware-Simulator) *(Bonus)*
+**Python | Computer Architecture**
+Cycle-accurate simulator and assembler for the RISC-V ISA handling 32+ instructions with a custom ALU and Control Unit for sub-millisecond latency.
 
 ---
 
-### 🏆 Certifications & Achievements
-* **Ethical Hacking & Penetration Testing:** 45-day intensive training by **C-DAC Noida** (Cyber Gyan).
-* **Cybersecurity Virtual Internship:** Verified simulation by **Deloitte Australia** (Log analysis & Incident response).
-* **Hackathons:** Participated in 3+ college-level hackathons focusing on AI/Web.
+### 🏆 Certifications & Leadership
+
+* **Ethical Hacking & Penetration Testing:** 45-day intensive training by C-DAC Noida (Cyber Gyan).
+* **Operations Lead @ Esya:** Orchestrated logistics for 40+ technical events and 2,000+ participants.
+* **Volunteer Lead @ Summer Camp:** Directed STEM curriculum for 125+ students.
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=L9G9N0&show_icons=true&theme=radical" alt="L9G9N0's GitHub Stats" />
+</p>
 
 ---
-
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=L9G9N0&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&hide_border=true" width="100%" alt="Activity Graph" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=L9G9N0&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=000000" alt="streak graph" />
-</div>
-
----
-
-### 🤝 Leadership
-<details>
-<summary>Click to view Leadership Roles</summary>
-<br>
-
-* **Operations Lead @ Esya 2025:** Orchestrated logistics for 40+ events and 2,000+ participants.
-* **Volunteer Lead @ Summer Camp 2025:** Directed STEM curriculum for 125+ students.
-* **Organizing Team @ Induction 2025:** Managed onboarding for 650+ freshers.
-
-</details>
-
----
-
-<div align="center">
-  <h3>Let's Connect</h3>
-  <a href="https://www.linkedin.com/in/hariomkumarbharti">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:hariom24229@iiitd.ac.in">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://hariomkbharti.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</div>
+<p align="center"><i>Always open to discussing systems architecture, algorithmic logic, and innovative AI solutions.</i></p>
