@@ -6,7 +6,7 @@ Professional developer workspace and open-source architecture profile of Hariom 
 
 ## Badges
 
-[![Profile Views](https://komarev.com/normal-badge/?username=L9G9N0&color=black&style=for-the-badge)](https://github.com/L9G9N0)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-black.svg?style=for-the-badge)](LICENSE)
 [![C++ Version](https://img.shields.io/badge/C++-17%20%2F%2020-blue.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/)
 [![Python Version](https://img.shields.io/badge/Python-3.9%20%7C%203.10%20%7C%203.11-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
